@@ -8,11 +8,11 @@
 
 <h3 align="left">I'm proficient in and use daily:</h3>
 
-![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord)
+![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord,docker,git,golang)
 
 <h3 align="left">I can understand and use:</h3>
 
-![UnderstandLogos](https://skillicons.dev/icons?i=docker,bash,git,python,nginx)
+![UnderstandLogos](https://skillicons.dev/icons?i=bash,python,nginx)
 
 <h3 align="left">I can just about understand:</h3>
 
