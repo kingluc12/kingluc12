@@ -1,22 +1,18 @@
 <h1 align="center">👋 Hello World! I'm KingLuc</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingluc12&label=Views&color=000000&style=plastic" alt="kingluc12" /> </p>
 <h3 align="center">Just your casual British Developer</h3>
-<h5 align="center">Note: Note: Note: Note: Note: Note: Note: Note: Note: :)</h4>
+<h5 align="center">:P</h4>
 
-<h2 align="center"> 🚧I'm currently working on a Minecraft DDoS protection software - It's pretty cool</h2>
-<h6 align="center">(If I do say so myself)</h6>
+<h2 align="center">I'm currently the lead developer @ fastasfuck.net</h2>
+<h6 align="center">(It's pretty cool if I do say so myself)</h6>
 
-<h3 align="left">I'm proficient in and use daily:</h3>
+<h3 align="left">I'm tools I use daily & proficiently:</h3>
 
-![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord,docker,git,golang)
+![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord,docker,git,golang,nginx)
 
 <h3 align="left">I can understand and use:</h3>
 
-![UnderstandLogos](https://skillicons.dev/icons?i=bash,python,nginx)
-
-<h3 align="left">I can just about understand:</h3>
-
-![JustUnderstandLogos](https://skillicons.dev/icons?i=java)
+![UnderstandLogos](https://skillicons.dev/icons?i=bash,python,java)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
