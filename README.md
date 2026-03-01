@@ -8,7 +8,7 @@
 
 <h3 align="left">I'm tools I use daily & proficiently:</h3>
 
-![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord,docker,git,golang,nginx)
+![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord,docker,git,golang,nginx,postgresql)
 
 <h3 align="left">I can understand and use:</h3>
 
