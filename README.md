@@ -3,7 +3,7 @@
 <h3 align="center">Just your casual British Developer</h3>
 <h5 align="center">:P</h4>
 
-<h2 align="center">I'm currently the lead developer @ fastasfuck.net</h2>
+<h2 align="center">I'm currently the lead @ fastasfuck.net</h2>
 <h6 align="center">(It's pretty cool if I do say so myself)</h6>
 
 <h3 align="left">I'm tools I use daily & proficiently:</h3>
