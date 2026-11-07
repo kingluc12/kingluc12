@@ -6,9 +6,9 @@
 <h2 align="center">I'm currently the lead @ fastasfuck.net</h2>
 <h6 align="center">(It's pretty cool if I do say so myself)</h6>
 
-<h3 align="left">I'm tools I use daily & proficiently:</h3>
+<h3 align="left">Tools I use daily:</h3>
 
-![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord,docker,git,golang,nginx,postgresql)
+![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord,docker,git,golang,nginx,postgresql,cloudflare)
 
 <h3 align="left">I can understand and use:</h3>
 
